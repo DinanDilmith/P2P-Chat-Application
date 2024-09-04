@@ -1,0 +1,10 @@
+1. open the project location on the command prompt.
+2. then type "python gui.py" and press enter.
+3. then enter "s" to select the server.
+4. open your project again in another command prompt.
+5. then again type "python gui.py" and press enter.
+6. then enter "c" to select the client.
+7. now when you send a message from one window, it appers in the other window and you can chat among server and client.
+
+D M D Dilmith - GAHDSE231F-026
+W K Y Nawodya - GAHDSE231F-027
